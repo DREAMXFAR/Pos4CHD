@@ -1,0 +1,17 @@
+{
+    "0": "background",
+    "1": "chest",
+    "2": "left_lung",
+    "3": "right_lung",
+    "4": "heart",
+    "5": "spine",
+    "6": "left_atrium",
+    "7": "right_atrium",
+    "8": "left_ventricle",
+    "9": "right_ventricle",
+    "10": "tricuspid_valve",
+    "11": "mitral_valve",
+    "12": "foramen_ovale",
+    "13": "interventricular_septum",
+    "14": "dao"
+}
